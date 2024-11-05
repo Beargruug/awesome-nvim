@@ -1,4 +1,4 @@
-# Awesome Neovim PDE Resources 
+# Awesome Neovim PDE Resources
 
 A curated list of plugins, configurations, and resources for Neovim.
 
